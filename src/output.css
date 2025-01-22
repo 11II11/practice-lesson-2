@@ -802,6 +802,14 @@ video {
   height: 270px;
 }
 
+.h-\[20px\] {
+  height: 20px;
+}
+
+.h-\[40px\] {
+  height: 40px;
+}
+
 .w-\[\] {
   width: ;
 }
