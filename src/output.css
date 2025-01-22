@@ -1041,6 +1041,10 @@ video {
   padding-top: 25px;
 }
 
+.pt-\[50px\] {
+  padding-top: 50px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1111,6 +1115,10 @@ video {
 
 .text-\[50px\] {
   font-size: 50px;
+}
+
+.text-\[60px\] {
+  font-size: 60px;
 }
 
 .text-white {
